@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix docker.yaml double-quote version bug (#7452)
