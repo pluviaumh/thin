@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
