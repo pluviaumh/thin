@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
