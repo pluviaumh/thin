@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
