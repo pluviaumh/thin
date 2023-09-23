@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fix OpenVINO links (#7930)
