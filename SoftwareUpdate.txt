@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Add visuals in guides/distance-calculation.md (#7876)
