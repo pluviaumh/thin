@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
