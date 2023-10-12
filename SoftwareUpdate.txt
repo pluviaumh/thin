@@ -1,1 +1,1 @@
-fix non-coco val
+fix predict with class filter
