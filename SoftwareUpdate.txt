@@ -1,1 +1,1 @@
-fix non-coco val
+Improve Coral Edge TPU guide (#8160)
