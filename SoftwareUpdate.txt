@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
