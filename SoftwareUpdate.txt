@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
