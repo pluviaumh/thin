@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
