@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
