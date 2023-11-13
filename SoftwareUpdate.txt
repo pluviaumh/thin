@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
