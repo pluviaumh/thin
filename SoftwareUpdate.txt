@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Retry once for Docker CI failures (#8164)
