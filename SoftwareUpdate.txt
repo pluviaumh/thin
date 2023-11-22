@@ -1,1 +1,1 @@
-fix non-coco val
+Improve Docs Modes tables (#8266)
