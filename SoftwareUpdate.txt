@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Use pathlib in DOTA ops (#7552)
