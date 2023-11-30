@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
