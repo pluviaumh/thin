@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
