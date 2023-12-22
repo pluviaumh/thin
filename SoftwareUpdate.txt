@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Pass callbacks to validator (#7320)
