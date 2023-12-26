@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Update Colab notebook for YOLOv8.1 (#8660)
