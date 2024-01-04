@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
