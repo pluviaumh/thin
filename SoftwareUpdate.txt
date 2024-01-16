@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Fix OpenVINO missing batch-size bug (#9264)
