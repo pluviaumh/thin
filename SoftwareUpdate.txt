@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Update Discord and Contributing Guide URLs (#9270)
