@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
