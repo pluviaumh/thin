@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
