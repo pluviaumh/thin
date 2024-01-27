@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add Amazon Sagemaker Docs integrations page (#7293)
