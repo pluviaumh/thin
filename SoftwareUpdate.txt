@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
