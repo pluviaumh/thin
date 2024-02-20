@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
