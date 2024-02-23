@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
