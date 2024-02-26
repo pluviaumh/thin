@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
