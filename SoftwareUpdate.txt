@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Remove unused variables (#8511)
