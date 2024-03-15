@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Fix OpenVINO links (#7930)
