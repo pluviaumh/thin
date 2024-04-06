@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Remove unused variables (#8511)
