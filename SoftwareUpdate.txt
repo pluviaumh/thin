@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
