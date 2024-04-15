@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
