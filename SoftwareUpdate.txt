@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
