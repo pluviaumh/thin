@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+fix for predicting with batch_size > 1 (#47)
