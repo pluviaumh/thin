@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
