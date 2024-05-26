@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
